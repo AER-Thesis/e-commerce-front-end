@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Hello</h1>
+    <h1>Hello test</h1>
     <h1>Hello Kimsien</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
